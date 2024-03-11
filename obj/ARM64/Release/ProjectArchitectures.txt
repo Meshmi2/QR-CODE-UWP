@@ -1,0 +1,1 @@
+C:\Users\meshm\source\repos\QR64v1\QR64v1.csproj;arm64

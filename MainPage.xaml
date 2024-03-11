@@ -1,0 +1,17 @@
+﻿<Page
+    x:Class="QR64v1.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:QR64v1"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Height="300" Width="300"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <TextBox x:Name="txtInput" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,3,0,0" PlaceholderText="Enter text to generate QR code" Width="293"/>
+        <Button Content="Generate QR Code" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,260,0,0" Click="GenerateQRCode"/>
+        <Image x:Name="imgQRCode" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+    </Grid>
+</Page>

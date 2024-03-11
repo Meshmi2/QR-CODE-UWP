@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QR64v1", "QR64v1.csproj", "{22896691-40DA-4203-965B-B11818A97EB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22896691-40DA-4203-965B-B11818A97EB7}.Debug|ARM.ActiveCfg = Debug|ARM
+		{22896691-40DA-4203-965B-B11818A97EB7}.Debug|ARM.Build.0 = Debug|ARM
+		{22896691-40DA-4203-965B-B11818A97EB7}.Debug|ARM.Deploy.0 = Debug|ARM
+		{22896691-40DA-4203-965B-B11818A97EB7}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{22896691-40DA-4203-965B-B11818A97EB7}.Debug|ARM64.Build.0 = Debug|ARM64
+		{22896691-40DA-4203-965B-B11818A97EB7}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{22896691-40DA-4203-965B-B11818A97EB7}.Debug|x64.ActiveCfg = Debug|x64
+		{22896691-40DA-4203-965B-B11818A97EB7}.Debug|x64.Build.0 = Debug|x64
+		{22896691-40DA-4203-965B-B11818A97EB7}.Debug|x64.Deploy.0 = Debug|x64
+		{22896691-40DA-4203-965B-B11818A97EB7}.Debug|x86.ActiveCfg = Debug|x86
+		{22896691-40DA-4203-965B-B11818A97EB7}.Debug|x86.Build.0 = Debug|x86
+		{22896691-40DA-4203-965B-B11818A97EB7}.Debug|x86.Deploy.0 = Debug|x86
+		{22896691-40DA-4203-965B-B11818A97EB7}.Release|ARM.ActiveCfg = Release|ARM
+		{22896691-40DA-4203-965B-B11818A97EB7}.Release|ARM.Build.0 = Release|ARM
+		{22896691-40DA-4203-965B-B11818A97EB7}.Release|ARM.Deploy.0 = Release|ARM
+		{22896691-40DA-4203-965B-B11818A97EB7}.Release|ARM64.ActiveCfg = Release|ARM64
+		{22896691-40DA-4203-965B-B11818A97EB7}.Release|ARM64.Build.0 = Release|ARM64
+		{22896691-40DA-4203-965B-B11818A97EB7}.Release|ARM64.Deploy.0 = Release|ARM64
+		{22896691-40DA-4203-965B-B11818A97EB7}.Release|x64.ActiveCfg = Release|x64
+		{22896691-40DA-4203-965B-B11818A97EB7}.Release|x64.Build.0 = Release|x64
+		{22896691-40DA-4203-965B-B11818A97EB7}.Release|x64.Deploy.0 = Release|x64
+		{22896691-40DA-4203-965B-B11818A97EB7}.Release|x86.ActiveCfg = Release|x86
+		{22896691-40DA-4203-965B-B11818A97EB7}.Release|x86.Build.0 = Release|x86
+		{22896691-40DA-4203-965B-B11818A97EB7}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8026BD0C-4A98-4A4F-AC69-DD890648CC20}
+	EndGlobalSection
+EndGlobal

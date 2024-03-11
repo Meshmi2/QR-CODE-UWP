@@ -1,0 +1,2 @@
+MainPackage=C:\Users\meshm\source\repos\QR64v1\bin\x86\Release\QR64v1_1.1.3.0_x86.msix
+SymbolPackage=C:\Users\meshm\source\repos\QR64v1\obj\x86\Release\Symbols\QR64v1_1.1.3.0_x86.appxsym
