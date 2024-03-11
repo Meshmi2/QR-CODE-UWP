@@ -4,14 +4,10 @@
 UWP APPLICATION
 a simple qr code generator for new developers
 
-<script type="module" src="https://get.microsoft.com/badge/ms-store-badge.bundled.js"></script>
-<ms-store-badge
-    productid="9pd2nxlccv8n"
-    window-mode="full"
-    theme="dark"
-    language="en-us"
-    animation="on">
-</ms-store-badge>
+<a href="https://apps.microsoft.com/detail/Simple%20QR-CODE/9pd2nxlccv8n?launch=true
+	&mode=full">
+	<img src="https://get.microsoft.com/images/en-us%20dark.svg" width="200"/>
+</a>
 
 -Simply
 
